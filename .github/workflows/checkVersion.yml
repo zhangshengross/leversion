@@ -32,7 +32,7 @@ jobs:
       uses: github-actions-x/commit@v2.9
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: 'master'
+        push-branch: 'main'
         commit-message: 'This is an github action commit.'
         force-add: 'true'
         name: Dean
