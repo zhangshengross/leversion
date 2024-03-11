@@ -32,11 +32,6 @@ npm run build --report
 python3 scripts/check.py
 ```
 
-## 微信小程序版
-
-> 欢迎扫码体验
-
-<img src="./static/images/wxxcx.png" width="20%"/>
 
 ## 参与贡献
 
